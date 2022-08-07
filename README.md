@@ -1,5 +1,5 @@
 ## Note-taking-website-using-flask
-This website make in  Python, using  Flask Framework.
+This website created  using  Python, using  Flask Framework.
 # specification of wesite : 
 1. user authentication user login and sign up , logout features .
 2. user store notes in sql database using flask sqlalchemy.  
